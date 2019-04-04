@@ -1,7 +1,18 @@
 body {
-    font-family: 'Lato',
-        'Lucida Grande',
-        'Lucida Sans Unicode',
-        Tahoma,
-        Sans-Serif;
+    font-family: 'Lato', Sans-Serif;
+    text-align: center;
+    background-color: #a9d7d1;
 }
+
+.container {
+    background-color: #fafafa;
+    max-width: 60%;
+    text-align: center;
+    margin: auto;
+    border-radius: 5px;
+}
+ form{
+     display: flex;
+     align-items: center;
+     flex-direction: column;
+ }
