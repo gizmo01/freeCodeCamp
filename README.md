@@ -8,9 +8,9 @@ The task was to fulfill the [user stories](https://learn.freecodecamp.org/respon
 ***
 
 ## Table of Contents
-* [Live link](#-live-link)
-* [Installation](#-Installation)
-* [How to use](#-how-to-use)
+* Live link
+* Installation
+* How to use
 
 ## Live link  
 Open the page directly from [here](https://gizmo01.github.io/Build-a-Survey-Form/)  
