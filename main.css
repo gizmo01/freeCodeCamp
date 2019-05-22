@@ -1,0 +1,41 @@
+#title{
+  text-align:center;
+}
+.container {
+  border: 1px solid #f1dfd2;
+  border-radius: 3px;
+  background-color:#fff;
+  max-width:800px;
+  display:flex;
+  align-items:center;
+  justify-content: center;
+  margin: auto;
+}
+p {text-align:center}
+body{
+  font-family: 'Nunito Sans';
+  background-color:#f6eae1;
+  color: #574f49;
+}
+.settings {
+    display:grid;
+    grid-template-columns: 50% 30%;
+    grid-gap:15px;
+    margin: 20px;
+}
+.label-text{ text-align:right; }
+/*.label-text:after { content: ":"; }*/
+.radio label, .checkbox label {display:block}
+.button {text-align:center;margin:15px;}
+button {
+  background-color:#689550;
+  color:#ffffff;
+  border:1px solid transparent;
+  padding:10px 20px 10px 20px;
+  border-radius:3px;
+  cursor:pointer;
+  font-weight: 600;
+}
+
+/* https://stackoverflow.com/a/48386400 - how to align labels in form next to input 
+*/
