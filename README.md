@@ -1,0 +1,39 @@
+# [freeCodeCamp](https://www.freecodecamp.org/)
+- [] **[Responsive Web Design Certification]() (300 hours)
+    - [x] Basic HTML and HTML5 
+    - [X] Basic CSS
+    - [x] Applied Visual Design
+    - [x] Applied Accessibility
+    - [x] Responsive Web Design Principles
+    - [x] CSS Flexbox
+    - [x] CSS Grid
+    - [x] **Responsive Web Design Projects:**
+      - [x] [Tribute page]()
+      - [x] [Survey Form](https://gizmo01.github.io/Build-a-Survey-Form/)
+      - [x] [Product Landing Page](https://gizmo01.github.io/Build-a-Product-Landing-Page/)
+      - [] [Technical Documentation Page]()
+      - [] [Personal Portfolio Webpage]()
+- [x] **[Javascript Algorithms And Data Structures Certification]() (300 hours)
+    - [x] Basic JavaScript
+    - [x] ES6
+    - [x] Regular Expressions
+    - [x] Debugging
+    - [x] Basic Data Structures
+    - [x] Basic Algorithm Scripting
+    - [x] Object Oriented Programming
+    - [ ] Functional Programming
+    - [] Intermediate Algorithm Scripting
+    - [] **JavaScript Algorithms and Data Structures Projects**
+- [x] **[Front End Libraries Certification]() (300 hours)
+    - [x] Bootstrap
+    - [x] jQuery
+    - [] Sass
+    - [x] React
+    - [] Redux
+    - [] React and Redux
+    - [] **Front End Libraries Projects**
+      - [] [Random Quote Machine]()
+      - [] [Markdown Previewer]()
+      - [] [Drum Machine]()
+      - [] [JavaScript Calculator]()
+      - [] [Pomodoro Clock]()
