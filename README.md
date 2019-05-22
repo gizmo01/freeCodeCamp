@@ -8,7 +8,7 @@
     - [x] CSS Flexbox
     - [x] CSS Grid
     - [x] **Responsive Web Design Projects:**
-      - [x] [Tribute page]()
+      - [] [Tribute page]()
       - [x] [Survey Form](https://gizmo01.github.io/Build-a-Survey-Form/)
       - [x] [Product Landing Page](https://gizmo01.github.io/Build-a-Product-Landing-Page/)
       - [] [Technical Documentation Page]()
