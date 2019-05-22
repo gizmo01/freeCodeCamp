@@ -22,7 +22,7 @@
     - [x] Basic Algorithm Scripting
     - [x] Object Oriented Programming
     - [ ] Functional Programming
-    - [] Intermediate Algorithm Scripting
+    - [] Intermediate Algorithm Scripting(https://github.com/gizmo01/freeCodeCamp/tree/master/Intermediate-Algorithm-Scripting)
     - [] **JavaScript Algorithms and Data Structures Projects**
 - [x] **[Front End Libraries Certification]() (300 hours)
     - [x] Bootstrap
